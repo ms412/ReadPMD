@@ -1,0 +1,24 @@
+Job: 
+Cable ID: 
+Contractor: 
+Customer: 
+Receiver Location: 
+Receiver Operator: 
+Source Location: 
+Source Operator: 
+Job Comment: 
+Module Model: 5121
+Serial Number: 0000335300
+DUT ID: 142_0
+Comment: 
+Type: Telecom Fiber
+Length: 80 km
+PMD Threshold: OC768 - STM2562.5 ps/km^½
+Coefficient Threshold: None
+Wavelength Band: 1520.21 - 1642.46nm
+PMD Delay: 0.120 ps(5)
+Status: Pass
+PMD Coefficient: 0.0135 ps/km^½
+Second PMD Delay: 0.0065 ps/nm
+Second PMD Coefficient: 0.0001 ps/nm.km
+2015/10/03 07:13:09
